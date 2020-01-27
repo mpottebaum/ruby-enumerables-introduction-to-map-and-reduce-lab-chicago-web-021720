@@ -26,4 +26,5 @@ def map_to_double(source_array)
   new_array
 end
 
-map_to_square(source_array)
+def map_to_square(source_array)
+  new_array = 
